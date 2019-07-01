@@ -39,7 +39,7 @@
 					<key>cmd</key>
 					<integer>30</integer>
 					<key>delay</key>
-					<integer>50</integer>
+					<integer>25</integer>
 					<key>mod</key>
 					<integer>0</integer>
 					<key>move</key>
@@ -99,7 +99,7 @@
 					<key>cmd</key>
 					<integer>30</integer>
 					<key>delay</key>
-					<integer>50</integer>
+					<integer>25</integer>
 					<key>mod</key>
 					<integer>0</integer>
 					<key>move</key>
