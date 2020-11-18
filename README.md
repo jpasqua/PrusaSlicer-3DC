@@ -1,6 +1,8 @@
 # PrusaSlicer-3DC
 ![](img/3DC-SM.jpg)![](img/prusaslicer_logo.png)
 
+**NOTE:** With newer versions of PrusaSlicer (starting with 2.2 I believe) there is built-in support for the 3DConnexion Space Mouse and there fore this configuration is not needed.
+
 Config file for 3DConnexion Space Mouse for use with PrusaSlicer.
 
 This is a work-in-progress. It customizes the Axes and Buttons of the 3DConnexion SpaceMouse for use with PrusaSlicer. This has had very minimal testing on a Mac running Mojave and PrusaSlicer Version: 2.0.0+ (Build: PrusaSlicer-2.0.0+-201905201652) as of 2019-06-30.
